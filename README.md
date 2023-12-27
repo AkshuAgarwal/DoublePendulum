@@ -1,2 +1,2 @@
 # DoublePendulum
-A Double Pendulum Simulator made in C++ using SDL2
+A Double Pendulum Simulator made in C++ using SDL3
